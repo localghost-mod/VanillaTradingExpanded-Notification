@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<LanguageData>  
+    <VTENotification.NewContract>New Contract</VTENotification.NewContract>
+    <VTENotification.NewContractDesc>A new contract on {0} of reward {1} silver (mark-up {2}%) has been submitted.</VTENotification.NewContractDesc>
+
+    <VTENotification.EndContract>Contract Ended</VTENotification.EndContract>
+    <VTENotification.EndContractDesc>The contract on {0} of reward {1} silver has ended.</VTENotification.EndContractDesc>
+
+    <VTENotification.News>News</VTENotification.News>
+
+    <VTENotification.StockRise>Stock Rise</VTENotification.StockRise>
+    <VTENotification.StockRiseDesc>The stock price of {0} has rised by {1}%.</VTENotification.StockRiseDesc>
+
+    <VTENotification.StockFall>Stock Fall</VTENotification.StockFall>
+    <VTENotification.StockFallDesc>The stock price of {0} has fallen by {1}%.</VTENotification.StockFallDesc>
+</LanguageData>

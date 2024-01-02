@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <XmlExtensions.SettingsMenuDef>
+        <defName>VTENotification</defName>
+        <modId>VTENotification</modId>
+        <label>VTE Notification</label>
+        <tKey>VTE_Notification</tKey>
+        <settings>
+            <li Class="XmlExtensions.Setting.Text">
+                <text>New Contract</text>
+                <font>Medium</font>
+                <tKey>New_Contract</tKey>
+            </li>
+            <li Class="XmlExtensions.Setting.RadioButtons">
+                <key>NewContract</key>
+                <defaultValue>Hidden</defaultValue>
+                <buttons>
+                    <li>
+                        <label>Hidden</label>
+                        <value>Hidden</value>
+                        <tKey>Hidden</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as message</label>
+                        <value>Message</value>
+                        <tKey>Shown_as_message</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (neutral)</label>
+                        <value>LetterNeutral</value>
+                        <tKey>Shown_as_letter_neutral</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (positive)</label>
+                        <value>LetterPositive</value>
+                        <tKey>Shown_as_letter_positive</tKey>
+                    </li>
+                </buttons>
+            </li>
+            <li Class="XmlExtensions.Setting.Text">
+                <text>End Contract</text>
+                <font>Medium</font>
+                <tKey>End_Contract</tKey>
+            </li>
+            <li Class="XmlExtensions.Setting.RadioButtons">
+                <key>EndContract</key>
+                <defaultValue>Hidden</defaultValue>
+                <buttons>
+                    <li>
+                        <label>Hidden</label>
+                        <value>Hidden</value>
+                        <tKey>Hidden</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as message</label>
+                        <value>Message</value>
+                        <tKey>Shown_as_message</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (neutral)</label>
+                        <value>LetterNeutral</value>
+                        <tKey>Shown_as_letter_neutral</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (positive)</label>
+                        <value>LetterPositive</value>
+                        <tKey>Shown_as_letter_positive</tKey>
+                    </li>
+                </buttons>
+            </li>
+            <li Class="XmlExtensions.Setting.Text">
+                <text>News</text>
+                <font>Medium</font>
+                <tKey>News</tKey>
+            </li>
+            <li Class="XmlExtensions.Setting.RadioButtons">
+                <key>News</key>
+                <defaultValue>Hidden</defaultValue>
+                <buttons>
+                    <li>
+                        <label>Hidden</label>
+                        <value>Hidden</value>
+                        <tKey>Hidden</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as message</label>
+                        <value>Message</value>
+                        <tKey>Shown_as_message</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (neutral)</label>
+                        <value>LetterNeutral</value>
+                        <tKey>Shown_as_letter_neutral</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (positive)</label>
+                        <value>LetterPositive</value>
+                        <tKey>Shown_as_letter_positive</tKey>
+                    </li>
+                </buttons>
+            </li>
+            <li Class="XmlExtensions.Setting.Text">
+                <text>Stock</text>
+                <font>Medium</font>
+                <tKey>Stock</tKey>
+            </li>
+            <li Class="XmlExtensions.Setting.RadioButtons">
+                <key>Stock</key>
+                <defaultValue>Hidden</defaultValue>
+                <buttons>
+                    <li>
+                        <label>Hidden</label>
+                        <value>Hidden</value>
+                        <tKey>Hidden</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as message</label>
+                        <value>Message</value>
+                        <tKey>Shown_as_message</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (neutral)</label>
+                        <value>LetterNeutral</value>
+                        <tKey>Shown_as_letter_neutral</tKey>
+                    </li>
+                    <li>
+                        <label>Shown as letter (positive)</label>
+                        <value>LetterPositive</value>
+                        <tKey>Shown_as_letter_positive</tKey>
+                    </li>
+                </buttons>
+            </li>
+            <li Class="XmlExtensions.Setting.Text">
+                <text>Take effect immediately, no need to reload save / game.</text>
+                <anchor>Middle</anchor>
+                <font>Medium</font>
+                <tKey>Take_effect</tKey>
+            </li>
+        </settings>
+    </XmlExtensions.SettingsMenuDef>
+</Defs>
