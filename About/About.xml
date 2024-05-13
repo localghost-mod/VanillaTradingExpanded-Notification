@@ -3,33 +3,28 @@
 	<name>Vanilla Trading Expanded: Notification</name>
 	<author>Local Ghost</author>
 	<supportedVersions>
-	<li>1.4</li>
+		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<packageId>localghost.VTENotification</packageId>
-	<description>A non-official addon for Vanilla Trading Expanded. It adds notifications for news and contract events (configurable). Of course, only if your trading terminal works well.
-		
+	<description>A non-official addon for Vanilla Trading Expanded. It adds notifications for news
+		and contract events (configurable). Of course, only if your trading terminal works well.
 		Languages: English, Chinese Simplified.
 	</description>
 	<modDependencies>
 		<li>
-		  <packageId>brrainz.harmony</packageId>
-		  <displayName>Harmony</displayName>
-		  <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
 		</li>
 		<li>
-		  <packageId>vanillaexpanded.vanillatradingexpanded</packageId>
-		  <displayName>Vanilla Trading Expanded</displayName>
-		  <steamWorkshopUrl>steam://url/CommunityFilePage/2785616901</steamWorkshopUrl>
+			<packageId>vanillaexpanded.vanillatradingexpanded</packageId>
+			<displayName>Vanilla Trading Expanded</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2785616901</steamWorkshopUrl>
 		</li>
-		<li>
-		  <packageId>imranfish.xmlextensions</packageId>
-		  <displayName>XML Extensions</displayName>
-		  <steamWorkshopUrl>steam://url/CommunityFilePage/2574315206</steamWorkshopUrl>
-		</li>
-	  </modDependencies>
+	</modDependencies>
 	<loadAfter>
 		<li>brrainz.harmony</li>
 		<li>vanillaexpanded.vanillatradingexpanded</li>
-		<li>imranfish.xmlextensions</li>
 	</loadAfter>
 </ModMetaData>

@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+    <VTENotification>原版贸易扩展：提示</VTENotification>
+
     <VTENotification.NewContract>新合约</VTENotification.NewContract>
-    <VTENotification.NewContractDesc>一条酬金{1}白银（倍率为{2}%）的期货合约：{0}已发布。</VTENotification.NewContractDesc>
-
     <VTENotification.EndContract>合约完成</VTENotification.EndContract>
-    <VTENotification.EndContractDesc>酬金为{1}白银的期货合约：{0}已完成。</VTENotification.EndContractDesc>
-
     <VTENotification.News>新闻</VTENotification.News>
+    <VTENotification.Stock>股票</VTENotification.Stock>
+
+    <VTENotification.NewContractDesc>一条酬金{1}白银（倍率为{2}%）的期货合约：{0}已发布。</VTENotification.NewContractDesc>
+    <VTENotification.EndContractDesc>酬金为{1}白银的期货合约：{0}已完成。</VTENotification.EndContractDesc>
 
     <VTENotification.StockRise>股票上涨</VTENotification.StockRise>
     <VTENotification.StockRiseDesc>{0}的股价上涨了{1}%。</VTENotification.StockRiseDesc>
@@ -14,14 +16,8 @@
     <VTENotification.StockFall>股价下跌</VTENotification.StockFall>
     <VTENotification.StockFallDesc>{0}的股价下跌了{1}%.</VTENotification.StockFallDesc>
 
-    <VTE_Notification>原版贸易扩展：提示</VTE_Notification>
-    <New_Contract>新合约</New_Contract>
-    <Hidden>隐藏</Hidden>
-    <Shown_as_message>显示为消息</Shown_as_message>
-    <Shown_as_letter_neutral>显示为信件（中立）</Shown_as_letter_neutral>
-    <Shown_as_letter_positive>显示为信件（正面）</Shown_as_letter_positive>
-    <End_Contract>合约结束</End_Contract>
-    <News>新闻</News>
-    <Stock>股票</Stock>
-    <Take_effect>立即生效，无需重新加载存档。</Take_effect>
+    <VTENotification.Hidden>隐藏</VTENotification.Hidden>
+    <VTENotification.Message>消息</VTENotification.Message>
+    <VTENotification.NeutralLetter>中立信件</VTENotification.NeutralLetter>
+    <VTENotification.PositiveLetter>正面信件</VTENotification.PositiveLetter>
 </LanguageData>
